@@ -4,3 +4,4 @@ It includes:
 - Constant, quadratic and linear notations
 - Best and worst case runtimes
 - Space complexity
+- Insignificance of terms in Big-O
